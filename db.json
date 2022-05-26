@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "Julia Garner",
+      "hp": "6",
+      "sprites": {
+        "front": "https://outsider.com/wp-content/uploads/2021/11/ozark-star-julia-garner-is-planning-her-next-con-new-trailer-inventing-anna-585x390.jpg",
+        "back": "https://www.nme.com/wp-content/uploads/2022/02/Julia-Garner.jpg"
+      },
+      "id": 151
     }
   ]
 }
